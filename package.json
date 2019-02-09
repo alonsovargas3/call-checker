@@ -1,0 +1,23 @@
+{
+  "name": "call-checker",
+  "version": "1.0.0",
+  "description": "Checks status of calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/alonsovargas/call-checker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/alonsovargas/call-checker/issues"
+  },
+  "homepage": "https://gitlab.com/alonsovargas/call-checker#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
